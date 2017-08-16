@@ -1,0 +1,16 @@
+#acf-clicky_title, .field_key-field_54fa4d95a988e
+ .inner, .field_key-field_54fa4fdba9892
+ .inner, #acf-post_subtitle {
+	height: 125px;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    border-bottom: 1px solid #cccccc;
+}
+#acf-post_subtitle {
+	margin-bottom:1em;
+	height: 140px;
+}
+#acf-clicky_title {
+	margin-bottom:1em;
+}
